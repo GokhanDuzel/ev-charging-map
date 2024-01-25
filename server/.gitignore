@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+
+# Compiled JavaScript files
+dist/
+
+# Logs
+*.log
+
+# Coverage directory used by tools like Istanbul
+coverage/
