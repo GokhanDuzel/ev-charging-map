@@ -12,3 +12,5 @@ dist/
 
 # Coverage directory used by tools like Istanbul
 coverage/
+
+.DS_Store
